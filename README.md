@@ -56,13 +56,13 @@
 
 ### ⭐ Main Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EltunLTN&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=12&cache_seconds=1000" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EltunLTN&layout=compact&theme=tokyonight&border_radius=12&cache_seconds=1000" height="170" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EltunLTN&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=12" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EltunLTN&layout=compact&theme=tokyonight&border_radius=12" height="170"/>
 </div>
 
 ### 🔥 Streak Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=EltunLTN&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=EltunLTN&theme=tokyonight&border_radius=12" />
 </div>
 
 ---
