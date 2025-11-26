@@ -1,83 +1,113 @@
+<!--
+🚨 IMPORTANT: Before deploying, please replace all instances of 'EltunLTN' in the stats card URLs with your actual GitHub username!
+-->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Eltun+👋;AI+Enthusiast+🤖;Machine+Learning+Engineer;Always+Learning...+🚀" alt="Typing SVG" />
-</div>
+<!-- Profile Picture - Corrected URL -->
+<img src="https://www.google.com/search?q=https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID%3Fv%3D4" alt="Profile Picture" width="150" style="border-radius: 50%; border: 4px solid #38bdf8;">
+
+Eltun Jalilli
+
+🚀 AI Engineer | Data Scientist | Deep Learning Architect
+
+"Transforming data streams into intelligent, scalable solutions."
+
+<!-- ANIMATION 1: Coding/Processing Loop -->
+
+<img src="YOUR_PROFESSIONAL_AI_GIF_URL_1" alt="AI Processing GIF" width="300"/>
+
+🧠 The AI Ethos
+
+Welcome to my digital workshop. I am an Artificial Intelligence Engineer with a profound passion for pushing the boundaries of machine capability. My work is centered on designing, developing, and deploying robust AI systems that solve complex, real-world challenges.
+
+I specialize in the core mechanics of cognitive computing: building advanced Neural Networks, optimizing Deep Learning architectures, and leveraging Computer Vision to give machines the power of sight and interpretation. I believe that intelligent systems are the future's essential infrastructure, and I am driven by continuous improvement in this rapidly evolving domain.
+
+⚙️ Technology & Tools
+
+My development environment is rooted in high-performance computing and efficiency. I utilize a powerful stack tailored for data-intensive and model-centric projects.
+
+Category
+
+Key Technologies
+
+Deep Learning
+
+PyTorch, TensorFlow, Keras
+
+Machine Learning
+
+Scikit-learn, XGBoost, Tesseract
+
+Data Science
+
+Pandas, NumPy, Matplotlib, Seaborn
+
+Programming
+
+Python (Expert), C++, SQL
+
+Infrastructure
+
+Docker, Git/GitHub, Linux, Jupyter
 
 <div align="center">
-  <h3>🧠 Turning Data into Intelligence</h3>
+<!-- Badges - Corrected URLs -->
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python Badge">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Scikit--Learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="Scikit-learn Badge">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Computer%2520Vision-4A90E2%3Fstyle%3Dfor-the-badge%26logo%3Dopencv%26logoColor%3Dwhite" alt="Computer Vision Badge">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Deep%2520Learning-000000%3Fstyle%3Dfor-the-badge%26logo%3Ddeep-learning%26logoColor%3Dwhite" alt="Deep Learning Badge">
 </div>
 
----
+💡 Featured Innovations (Projects)
+
+Explore my repositories for practical applications of cutting-edge AI research. My featured projects demonstrate expertise in:
+
+Computer Vision Systems: Custom object detection and image segmentation models.
+
+Time Series Analysis: Predictive models using advanced recurrent architectures (LSTMs, Transformers).
+
+Data Pipelining: End-to-end solutions for data processing and model deployment.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" align="right">
-  
-  <p align="left"> 
-    Welcome to my GitHub! I am passionate about <b>Artificial Intelligence</b>, <b>Deep Learning</b>, and solving complex problems with code. I love exploring new technologies and building smart applications.
-    <br><br>
-    🔭 I’m currently working on <b>Machine Learning Models</b><br>
-    🌱 I’m currently learning <b>Neural Networks & Computer Vision</b><br>
-    ⚡ Fun fact: <b>I believe AI is the new electricity!</b>
-  </p>
+<!-- ANIMATION 2: Creative/Focus GIF (Maybe the cat working on the laptop) -->
+<img src="YOUR_CREATIVE_FOCUS_GIF_URL_2" alt="Working on AI Project GIF" width="400"/>
 </div>
 
-<br clear="right">
+Feel free to dive into the code and suggest improvements!
 
----
+📈 Continuous Growth (Learning Goals)
 
-### 🛠️ Tech Stack & Tools
+The landscape of AI changes daily, and so does my commitment to growth. My current learning objectives include:
+
+Generative AI & LLMs: Mastering prompt engineering and fine-tuning large language models (LLMs) for specialized tasks.
+
+MLOps Implementation: Standardizing deployment workflows using Kubernetes and cloud platforms (AWS/Azure).
+
+Ethical AI: Deepening understanding of fairness, accountability, and transparency in model development.
+
+📊 My Data Footprint
+
+A glimpse into my contribution patterns and technical focus on GitHub.
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-<br>
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-
-<br>
-<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
+<!-- Stats Cards - Corrected URLs -->
+<!-- Ensure you replace 'EltunLTN' with your GitHub username for these cards to work! -->
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DEltunLTN%26show_icons%3Dtrue%26theme%3Ddark%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue" alt="Eltun's GitHub stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DEltunLTN%26layout%3Dcompact%26theme%3Ddark%26langs_count%3D5%26hide_border%3Dtrue" alt="Top Languages" />
 </div>
 
----
+🤝 Connect & Collaborate
 
-### 📊 GitHub Statistics
+I am always open to engaging in discussions, collaborating on high-impact projects, or sharing insights on the future of AI.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EltunLTN&show_icons=true&theme=react&rank_icon=github&border_radius=10" height="180" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EltunLTN&layout=compact&theme=react&border_radius=10" height="180" alt="languages graph" />
-</div>
+[LinkedIn Profile Link]: Let's connect professionally.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EltunLTN&theme=react&border_radius=10" alt="streak stats" />
-</div>
+[Portfolio/Website Link] (Optional): See my full range of work.
 
----
+Email: eltun.jalilli@example.com (Replace with your professional email)
 
-### 🤝 Connect with Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/jalilli">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:eltunjalilli@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EltunLTN&style=flat-square&color=blueviolet" alt="profile views" />
-</div>
+<p align="center">
+<small>Committed to intelligent solutions, one line of code at a time.</small>
+</p>
