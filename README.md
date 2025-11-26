@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="210" align="right">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWN2MWpkOGh4NXhhMnhqY295dTdzM296Nm5reXkyYmdpZTl0NTE4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" width="210" align="right">
   
   <p align="left"> 
     Welcome to my GitHub! I’m deeply passionate about <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Deep Learning</b>.  
