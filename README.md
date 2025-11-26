@@ -55,17 +55,11 @@
 ## 📊 GitHub Statistics
 
 ### ⭐ Main Stats
-<div align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eltunltn&show_icons=true&theme=tokyonight&rank_icon=percent&border_radius=12" 
-    width="480"
-  />
-</div>
+<div align="start">
 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=M4sayev&show_icons=true&theme=react&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4sayev&layout=compact&theme=react" />
 
-### 🔥 Streak Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=EltunLTN&theme=tokyonight&border_radius=12" />
 </div>
 
 ---
