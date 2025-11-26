@@ -52,17 +52,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-### ⭐ Main Stats
-<div align="start">
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EltunLTN&show_icons=true&theme=react&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EltunLTN&layout=compact&theme=react" />
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 <div align="center">
