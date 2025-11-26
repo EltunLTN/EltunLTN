@@ -56,9 +56,12 @@
 
 ### ⭐ Main Stats
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EltunLTN&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=12" height="170"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EltunLTN&layout=compact&theme=tokyonight&border_radius=12" height="170"/>
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eltunltn&show_icons=true&theme=tokyonight&rank_icon=percent&border_radius=12" 
+    width="480"
+  />
 </div>
+
 
 ### 🔥 Streak Stats
 <div align="center">
