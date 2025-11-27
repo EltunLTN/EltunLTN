@@ -51,7 +51,7 @@
 </div>
 
 ---
-<div align="start">
+<div align="center">
 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EltunLTN&show_icons=true&theme=react&count_private=true" />
   
@@ -71,4 +71,6 @@
 
 <br>
 
-Feel free to reach out — I love connecting with other developers and sharing ideas! 🚀
+<p align="center">
+  Feel free to reach out — I love connecting with other developers and sharing ideas! 🚀
+</p>
