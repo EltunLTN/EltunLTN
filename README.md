@@ -74,3 +74,9 @@
 <p align="center">
   Feel free to reach out — I love connecting with other developers and sharing ideas! 🚀
 </p>
+
+
+
+![](https://komarev.com/ghpvc/?username=EltunLTN&color=61dafb&style=flat-square)
+
+
