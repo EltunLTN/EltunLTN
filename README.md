@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:6A5ACD,100:FF2D95&height=185&section=header&text=Eltun%20Jalilli&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20Professional%20Bug%20Negotiator&descAlignY=58&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:6A5ACD,100:FF2D95&height=185&section=header&text=Turning%20Data%20Into%20Intelligence&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Real-World%20Systems&descAlignY=58&descSize=17" />
 
 <div align="center">
 
@@ -13,15 +13,11 @@
 
 </div>
 
----
-
 <div align="center">
 
-```python
 eltun = ML_Engineer(focus=["AI", "NLP", "Computer Vision"])
 while eltun.is_alive:
     eltun.learn().build().debug()
-```
 
 </div>
 
@@ -29,7 +25,7 @@ while eltun.is_alive:
   <img width="92%" src="./assets/training_meme.svg" alt="Animated machine learning training meme">
 </p>
 
-## 🤖 AI & ML Stack
+🤖 AI & ML Stack
 
 <div align="center">
 
@@ -53,7 +49,7 @@ while eltun.is_alive:
   <img width="92%" src="./assets/philosophy_loop.svg" alt="Animated coding philosophy">
 </p>
 
-## 🧪 Developer Reality
+🧪 Developer Reality
 
 <table>
 <tr>
@@ -72,7 +68,7 @@ while eltun.is_alive:
 
 </div>
 
-## 📊 GitHub Diagnostics
+📊 GitHub Diagnostics
 
 <div align="center">
 
@@ -85,7 +81,7 @@ while eltun.is_alive:
 
 </div>
 
-## 🤝 Connect
+🤝 Connect
 
 <div align="center">
 
