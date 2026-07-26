@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300" viewBox="0 0 500 300">
+<rect width="500" height="300" rx="18" fill="#0D1117" stroke="#30363d"/>
+<text x="250" y="35" text-anchor="middle" fill="#FF2D95" font-family="monospace" font-size="20" font-weight="700">BUG HYDRA</text>
+
+<g font-family="monospace" text-anchor="middle">
+  <circle cx="115" cy="140" r="48" fill="#161b22" stroke="#ff5f56" stroke-width="3"/>
+  <text x="115" y="134" fill="#ff5f56" font-size="22">BUG</text>
+  <text x="115" y="158" fill="#8b949e" font-size="14">#1</text>
+
+  <path d="M175 140 H265" stroke="#39FF14" stroke-width="5" stroke-dasharray="10 8">
+    <animate attributeName="stroke-dashoffset" values="0;-36" dur="1s" repeatCount="indefinite"/>
+  </path>
+  <text x="220" y="118" fill="#39FF14" font-size="15">FIX</text>
+
+  <g opacity="0">
+    <circle cx="345" cy="92" r="35" fill="#161b22" stroke="#ff5f56" stroke-width="3"/>
+    <circle cx="405" cy="145" r="35" fill="#161b22" stroke="#ff5f56" stroke-width="3"/>
+    <circle cx="338" cy="200" r="35" fill="#161b22" stroke="#ff5f56" stroke-width="3"/>
+    <text x="345" y="99" fill="#ff5f56" font-size="17">BUG</text>
+    <text x="405" y="152" fill="#ff5f56" font-size="17">BUG</text>
+    <text x="338" y="207" fill="#ff5f56" font-size="17">BUG</text>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.35;0.5;0.9;1" dur="4s" repeatCount="indefinite"/>
+  </g>
+
+  <text x="250" y="270" fill="#c9d1d9" font-size="17">Fix one. Unlock three new side quests.</text>
+</g>
+</svg>
