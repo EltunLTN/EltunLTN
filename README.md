@@ -2,27 +2,29 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=I+train+models...+sometimes+they+train+me+%F0%9F%A4%96;I+debug%2C+therefore+I+am+%F0%9F%A7%A0;Turning+coffee+into+code+%E2%98%95;Building+AI+that+survives+outside+the+notebook+%F0%9F%9A%80" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=850&color=39FF14&center=true&vCenter=true&width=920&lines=Probabil+%E2%99%9F%EF%B8%8F;God+does+not+play+dice+%E2%80%94+Einstein;I+train+models+and+study+patterns;Coding+is+calculation.+Chess+is+calculation+under+pressure." alt="Typing animation" />
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=EltunLTN&label=PROFILE+VISITORS&color=6A5ACD&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/EltunLTN?label=Followers&style=for-the-badge&color=00C9FF" />
-<img src="https://img.shields.io/badge/build-passing-39FF14?style=for-the-badge&logo=githubactions&logoColor=black" />
-<img src="https://img.shields.io/badge/sanity-404%20not%20found-FF2D95?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Alias-Probabil-39FF14?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Favourite%20Quote-God%20does%20not%20play%20dice-FF2D95?style=for-the-badge" />
 
 </div>
 
 <div align="center">
 
-eltun = ML_Engineer(focus=["AI", "NLP", "Computer Vision"])
-while eltun.is_alive:
-    eltun.learn().build().debug()
+probabil = {
+    "focus": ["AI", "Machine Learning", "Computer Vision", "NLP"],
+    "thinking": "logic + probability + patience",
+    "belief": "A prediction is easy. Reliability is engineering."
+}
 
 </div>
 
 <p align="center">
-  <img width="92%" src="./assets/training_meme.svg" alt="Animated machine learning training meme">
+  <img width="92%" src="./assets/probabil_quote.svg" alt="Probabil philosophical animation">
 </p>
 
 🤖 AI & ML Stack
@@ -43,28 +45,33 @@ while eltun.is_alive:
 
 </div>
 
-<br>
+♟️ Coding × Chess
 
 <p align="center">
-  <img width="92%" src="./assets/philosophy_loop.svg" alt="Animated coding philosophy">
+  <img width="92%" src="./assets/chess_code.svg" alt="Coding and chess animated visual">
 </p>
-
-🧪 Developer Reality
-
-<table>
-<tr>
-<td width="50%" align="center">
-  <img width="100%" src="./assets/works_on_my_machine.svg" alt="Works on my machine animated meme">
-</td>
-<td width="50%" align="center">
-  <img width="100%" src="./assets/bug_hydra.svg" alt="Fix one bug and three appear animated meme">
-</td>
-</tr>
-</table>
 
 <div align="center">
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Programming joke card" />
+Chess
+
+Coding
+
+Think before the move
+
+Design before the code
+
+Every move has a consequence
+
+Every line has a side effect
+
+Pattern recognition wins games
+
+Pattern recognition trains models
+
+Sacrifice short-term gain for long-term position
+
+Trade shortcuts for maintainability
 
 </div>
 
@@ -97,7 +104,7 @@ while eltun.is_alive:
 
 <br><br>
 
-<sub>May your loss decrease and your bugs reproduce only in controlled environments.</sub>
+<sub>Probabil — where logic meets uncertainty.</sub>
 
 </div>
 
