@@ -45,36 +45,6 @@ probabil = {
 
 </div>
 
-♟️ Coding × Chess
-
-<p align="center">
-  <img width="92%" src="./assets/chess_code.svg" alt="Coding and chess animated visual">
-</p>
-
-<div align="center">
-
-Chess
-
-Coding
-
-Think before the move
-
-Design before the code
-
-Every move has a consequence
-
-Every line has a side effect
-
-Pattern recognition wins games
-
-Pattern recognition trains models
-
-Sacrifice short-term gain for long-term position
-
-Trade shortcuts for maintainability
-
-</div>
-
 📊 GitHub Diagnostics
 
 <div align="center">
