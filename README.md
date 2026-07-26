@@ -13,11 +13,15 @@
 
 </div>
 
+---
+
 <div align="center">
 
+```python
 eltun = ML_Engineer(focus=["AI", "NLP", "Computer Vision"])
 while eltun.is_alive:
     eltun.learn().build().debug()
+```
 
 </div>
 
@@ -25,11 +29,21 @@ while eltun.is_alive:
   <img width="92%" src="./assets/training_meme.svg" alt="Animated machine learning training meme">
 </p>
 
-⚙️ Tech Stack
+## 🤖 AI & ML Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,fastapi,django,react,nextjs,tensorflow,pytorch,opencv,sklearn,pandas,docker,git,linux,postgres&perline=9" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 </div>
 
@@ -39,7 +53,7 @@ while eltun.is_alive:
   <img width="92%" src="./assets/philosophy_loop.svg" alt="Animated coding philosophy">
 </p>
 
-🧪 Developer Reality
+## 🧪 Developer Reality
 
 <table>
 <tr>
@@ -58,7 +72,7 @@ while eltun.is_alive:
 
 </div>
 
-📊 GitHub Diagnostics
+## 📊 GitHub Diagnostics
 
 <div align="center">
 
@@ -71,7 +85,7 @@ while eltun.is_alive:
 
 </div>
 
-🤝 Connect
+## 🤝 Connect
 
 <div align="center">
 

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300" viewBox="0 0 500 300">
+<rect width="500" height="300" rx="18" fill="#0D1117" stroke="#30363d"/>
+<text x="250" y="35" text-anchor="middle" fill="#39FF14" font-family="monospace" font-size="20" font-weight="700">WORKS ON MY MACHINE</text>
+
+<rect x="35" y="75" width="155" height="105" rx="10" fill="#161b22" stroke="#00C9FF" stroke-width="3"/>
+<rect x="58" y="93" width="110" height="65" rx="4" fill="#010409"/>
+<text x="113" y="129" text-anchor="middle" fill="#39FF14" font-family="monospace" font-size="15">PASS ✓</text>
+<text x="113" y="204" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="15">localhost</text>
+
+<path d="M210 127 H315" stroke="#6A5ACD" stroke-width="5" stroke-dasharray="12 10">
+  <animate attributeName="stroke-dashoffset" values="0;-44" dur="1.2s" repeatCount="indefinite"/>
+</path>
+<polygon points="315,127 298,117 298,137" fill="#6A5ACD"/>
+
+<g>
+  <path d="M365 86 C333 86 323 114 337 132 C314 142 319 178 350 181 H439 C470 178 478 145 455 132 C463 102 432 81 408 96 C396 88 380 84 365 86Z" fill="#161b22" stroke="#FF2D95" stroke-width="3"/>
+  <text x="397" y="127" text-anchor="middle" fill="#f0f6fc" font-family="monospace" font-size="17">PRODUCTION</text>
+  <text x="397" y="158" text-anchor="middle" fill="#ff5f56" font-family="monospace" font-size="18" font-weight="700" opacity="0">ERROR 500
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.35;0.45;0.9;1" dur="4s" repeatCount="indefinite"/>
+  </text>
+</g>
+
+<text x="250" y="258" text-anchor="middle" fill="#c9d1d9" font-family="monospace" font-size="17">“Environment issue.” — every developer, eventually</text>
+</svg>
