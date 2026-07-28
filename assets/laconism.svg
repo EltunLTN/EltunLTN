@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0D1117"/>
+    <stop offset="1" stop-color="#151B26"/>
+  </linearGradient>
+  <linearGradient id="quoteGrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22C1FF"/>
+    <stop offset="0.5" stop-color="#8B7CFF"/>
+    <stop offset="1" stop-color="#FF4DA6"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect width="1200" height="360" rx="24" fill="url(#bg)" stroke="#30363d"/>
+
+<circle cx="42" cy="34" r="8" fill="#ff5f56"/>
+<circle cx="68" cy="34" r="8" fill="#ffbd2e"/>
+<circle cx="94" cy="34" r="8" fill="#27c93f"/>
+<text x="130" y="42" fill="#8b949e" font-family="monospace" font-size="20">laconism.md</text>
+
+<text x="600" y="105" text-anchor="middle" fill="url(#quoteGrad)" font-family="Georgia, serif" font-size="34" font-weight="700" filter="url(#glow)">“God does not play dice.”</text>
+<text x="600" y="140" text-anchor="middle" fill="#a7b0bf" font-family="monospace" font-size="20">— Albert Einstein</text>
+
+<g transform="translate(135,210)">
+  <rect x="0" y="0" width="205" height="70" rx="35" fill="#11283E" stroke="#27B8FF" stroke-width="3"/>
+  <text x="102.5" y="34" text-anchor="middle" fill="#27B8FF" font-family="monospace" font-size="24" font-weight="700">CHAOS</text>
+  <text x="102.5" y="55" text-anchor="middle" fill="#8aa2bf" font-family="monospace" font-size="13">raw uncertainty</text>
+</g>
+
+<g transform="translate(860,210)">
+  <rect x="0" y="0" width="205" height="70" rx="35" fill="#3C1622" stroke="#FF4D78" stroke-width="3"/>
+  <text x="102.5" y="34" text-anchor="middle" fill="#FF4D78" font-family="monospace" font-size="24" font-weight="700">MODEL</text>
+  <text x="102.5" y="55" text-anchor="middle" fill="#d3a3b2" font-family="monospace" font-size="13">learned structure</text>
+</g>
+
+<line x1="340" y1="245" x2="455" y2="245" stroke="#5a6a7a" stroke-width="4" stroke-dasharray="10 10"/>
+<line x1="745" y1="245" x2="860" y2="245" stroke="#5a6a7a" stroke-width="4" stroke-dasharray="10 10"/>
+
+<g transform="translate(480,178)">
+  <ellipse cx="70" cy="28" rx="18" ry="40" fill="#1b2230" stroke="#A3B1C6" stroke-width="3"/>
+  <ellipse cx="120" cy="28" rx="18" ry="40" fill="#1b2230" stroke="#A3B1C6" stroke-width="3"/>
+  <ellipse cx="70" cy="28" rx="8" ry="24" fill="#26354B"/>
+  <ellipse cx="120" cy="28" rx="8" ry="24" fill="#26354B"/>
+  <ellipse cx="95" cy="88" rx="56" ry="48" fill="#1b2230" stroke="#A3B1C6" stroke-width="3"/>
+  <circle cx="76" cy="82" r="5" fill="#D7E3F4"/>
+  <circle cx="114" cy="82" r="5" fill="#D7E3F4"/>
+  <circle cx="95" cy="95" r="4" fill="#D7E3F4"/>
+  <path d="M85 106 Q95 114 105 106" stroke="#D7E3F4" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <text x="95" y="153" text-anchor="middle" fill="#cfd7e5" font-family="monospace" font-size="22" font-weight="700">INFERENCE</text>
+  <text x="95" y="173" text-anchor="middle" fill="#8696ab" font-family="monospace" font-size="13">reasoning through patterns</text>
+</g>
+</svg>
