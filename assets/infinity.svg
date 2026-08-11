@@ -1,0 +1,39 @@
+<svg width="100%" height="180" viewBox="0 0 680 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="infGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00C9FF"/>
+      <stop offset="50%" stop-color="#6A5ACD"/>
+      <stop offset="100%" stop-color="#FF2D95"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6A5ACD" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#6A5ACD" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <ellipse cx="340" cy="110" rx="220" ry="90" fill="url(#glow)"/>
+
+  <path id="infPath"
+        d="M 240 110 C 240 70, 300 70, 340 110 C 380 150, 440 150, 440 110 C 440 70, 380 70, 340 110 C 300 150, 240 150, 240 110 Z"
+        fill="none" stroke="url(#infGrad)" stroke-width="9" stroke-linecap="round"/>
+
+  <circle r="8" fill="#ffffff">
+    <animateMotion dur="3.2s" repeatCount="indefinite"
+      path="M 240 110 C 240 70, 300 70, 340 110 C 380 150, 440 150, 440 110 C 440 70, 380 70, 340 110 C 300 150, 240 150, 240 110 Z"/>
+  </circle>
+
+  <circle r="4" fill="#00C9FF" opacity="0.8">
+    <animateMotion dur="3.2s" begin="-1.6s" repeatCount="indefinite"
+      path="M 240 110 C 240 70, 300 70, 340 110 C 380 150, 440 150, 440 110 C 440 70, 380 70, 340 110 C 300 150, 240 150, 240 110 Z"/>
+  </circle>
+
+  <style>
+    #infPath {
+      stroke-dasharray: 14 7;
+      animation: inf-dash 2.6s linear infinite;
+    }
+    @keyframes inf-dash {
+      to { stroke-dashoffset: -210; }
+    }
+  </style>
+</svg>
