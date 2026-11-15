@@ -15,7 +15,6 @@
 <div align="center">
   <!-- Languages & Core ML -->
   <img src="https://img.shields.io/badge/Python-0B132B?style=flat-square&logo=python&logoColor=FFD166" />
-  <img src="https://img.shields.io/badge/C++-0B132B?style=flat-square&logo=c%2B%2B&logoColor=FFD166" />
   <img src="https://img.shields.io/badge/SQL-0B132B?style=flat-square&logo=postgresql&logoColor=FFD166" />
   <img src="https://img.shields.io/badge/PyTorch-0B132B?style=flat-square&logo=pytorch&logoColor=FFD166" />
   <img src="https://img.shields.io/badge/TensorFlow-0B132B?style=flat-square&logo=tensorflow&logoColor=FFD166" />
@@ -29,7 +28,6 @@
   <img src="https://img.shields.io/badge/Jupyter-1C2541?style=flat-square&logo=jupyter&logoColor=FFD166" />
   <img src="https://img.shields.io/badge/FastAPI-1C2541?style=flat-square&logo=fastapi&logoColor=FFD166" />
   <img src="https://img.shields.io/badge/Django-1C2541?style=flat-square&logo=django&logoColor=FFD166" />
-  <img src="https://img.shields.io/badge/Streamlit-1C2541?style=flat-square&logo=streamlit&logoColor=FFD166" />
   <br>
   <!-- MLOps & Infrastructure -->
   <img src="https://img.shields.io/badge/Docker-3A506B?style=flat-square&logo=docker&logoColor=FFD166" />
