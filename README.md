@@ -1,4 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:6A5ACD,100:FF2D95&height=185&section=header&text=Searching%20for%20Data%20in%20Broad%20Daylight&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineering%20%7C%20Machine%20Learning%20%7C%20Real-World%20Systems&descAlignY=58&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0B132B,55:1C2541,100:F4A300&height=200&section=header&text=Looking%20for%20Data&fontSize=52&fontColor=FFD166&animation=twinkling&fontAlignY=38&desc=AI%20Engineering%20%7C%20Machine%20Learning%20%7C%20Real-World%20Systems&descAlignY=62&descSize=16&descColor=ffffff" />
+
+<p align="center">
+  <img width="42%" src="./assets/lantern.svg" alt="Animated swinging lantern">
+</p>
 
 <div align="center">
   <i>🏮 "I'm looking for an honest dataset." 🏮</i>
@@ -6,65 +10,49 @@
 
 <br>
 
-<p align="center">
-  <img width="45%" src="./assets/lantern.svg" alt="Animated swinging lantern">
-</p>
-
-<h3 align="center">🏺 Philosopher of Gradient Descent</h3>
-
-<p align="center">
-  <i>"I know that I know nothing... so let me train a model."</i>
-</p>
-
 <h3 align="center">🛠️ Tools in My Barrel</h3>
 
 <div align="center">
-  <!-- Languages & Deep Learning / Core ML -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <!-- Languages & Core ML -->
+  <img src="https://img.shields.io/badge/Python-0B132B?style=flat-square&logo=python&logoColor=FFD166" />
+  <img src="https://img.shields.io/badge/C++-0B132B?style=flat-square&logo=c%2B%2B&logoColor=FFD166" />
+  <img src="https://img.shields.io/badge/SQL-0B132B?style=flat-square&logo=postgresql&logoColor=FFD166" />
+  <img src="https://img.shields.io/badge/PyTorch-0B132B?style=flat-square&logo=pytorch&logoColor=FFD166" />
+  <img src="https://img.shields.io/badge/TensorFlow-0B132B?style=flat-square&logo=tensorflow&logoColor=FFD166" />
+  <img src="https://img.shields.io/badge/scikit--learn-0B132B?style=flat-square&logo=scikit-learn&logoColor=FFD166" />
+  <img src="https://img.shields.io/badge/OpenCV-0B132B?style=flat-square&logo=opencv&logoColor=FFD166" />
   <br>
   <!-- Data Science, NLP & Frameworks -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-1C2541?style=flat-square&logo=pandas&logoColor=FFD166" />
+  <img src="https://img.shields.io/badge/NumPy-1C2541?style=flat-square&logo=numpy&logoColor=FFD166" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-1C2541?style=flat-square&logo=huggingface&logoColor=FFD166" />
+  <img src="https://img.shields.io/badge/Jupyter-1C2541?style=flat-square&logo=jupyter&logoColor=FFD166" />
+  <img src="https://img.shields.io/badge/FastAPI-1C2541?style=flat-square&logo=fastapi&logoColor=FFD166" />
+  <img src="https://img.shields.io/badge/Django-1C2541?style=flat-square&logo=django&logoColor=FFD166" />
+  <img src="https://img.shields.io/badge/Streamlit-1C2541?style=flat-square&logo=streamlit&logoColor=FFD166" />
   <br>
   <!-- MLOps & Infrastructure -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-3A506B?style=flat-square&logo=docker&logoColor=FFD166" />
+  <img src="https://img.shields.io/badge/MLflow-3A506B?style=flat-square&logo=mlflow&logoColor=FFD166" />
+  <img src="https://img.shields.io/badge/Git-3A506B?style=flat-square&logo=git&logoColor=FFD166" />
+  <img src="https://img.shields.io/badge/Linux-3A506B?style=flat-square&logo=linux&logoColor=FFD166" />
+  <img src="https://img.shields.io/badge/PostgreSQL-3A506B?style=flat-square&logo=postgresql&logoColor=FFD166" />
 </div>
 
 <br>
-
-<div align="center">
-  <blockquote>
-    <i>"Alexander asked what I wanted. I said: don't block my GPU."</i> ☀️
-  </blockquote>
-</div>
 
 <h3 align="center">🏮 Find Me (I'm Not in the Barrel)</h3>
 
 <div align="center">
   <a href="https://linkedin.com/in/jalilli">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-F4A300?style=for-the-badge&logo=linkedin&logoColor=0B132B" />
   </a>
   <a href="mailto:eltunjalilli@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Message-FFD166?style=for-the-badge&logo=gmail&logoColor=0B132B" />
   </a>
   <a href="https://eltunltn.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-6A5ACD?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-F4A300?style=for-the-badge&logo=google-chrome&logoColor=0B132B" />
   </a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D95,50:6A5ACD,100:00C9FF&height=115&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F4A300,50:1C2541,100:0B132B&height=110&section=footer" />
