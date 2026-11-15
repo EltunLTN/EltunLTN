@@ -1,16 +1,22 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:6A5ACD,100:FF2D95&height=185&section=header&text=Turning%20Data%20Into%20Intelligence&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineering%20%7C%20Machine%20Learning%20%7C%20Real-World%20Systems&descAlignY=58&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:6A5ACD,100:FF2D95&height=185&section=header&text=Searching%20for%20Data%20in%20Broad%20Daylight&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineering%20%7C%20Machine%20Learning%20%7C%20Real-World%20Systems&descAlignY=58&descSize=17" />
 
 <div align="center">
-  <i>🏮 "Looking for data" 🏮</i>
+  <i>🏮 "I'm looking for an honest dataset." 🏮</i>
 </div>
 
 <br>
 
 <p align="center">
-  <img width="55%" src="./assets/infinity.svg" alt="Animated infinity symbol">
+  <img width="45%" src="./assets/lantern.svg" alt="Animated swinging lantern">
 </p>
 
-<h3 align="center">🤖 AI Engineer</h3>
+<h3 align="center">🏺 Philosopher of Gradient Descent</h3>
+
+<p align="center">
+  <i>"I know that I know nothing... so let me train a model."</i>
+</p>
+
+<h3 align="center">🛠️ Tools in My Barrel</h3>
 
 <div align="center">
   <!-- Languages & Deep Learning / Core ML -->
@@ -41,7 +47,13 @@
 
 <br>
 
-<h3 align="center">🤝 Connect & Explore</h3>
+<div align="center">
+  <blockquote>
+    <i>"Alexander asked what I wanted. I said: don't block my GPU."</i> ☀️
+  </blockquote>
+</div>
+
+<h3 align="center">🏮 Find Me (I'm Not in the Barrel)</h3>
 
 <div align="center">
   <a href="https://linkedin.com/in/jalilli">
