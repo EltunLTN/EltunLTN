@@ -1,8 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0B132B,55:1C2541,100:F4A300&height=200&section=header&text=Looking%20for%20Data&fontSize=52&fontColor=FFD166&animation=twinkling&fontAlignY=38&desc=AI%20Engineering%20%7C%20Machine%20Learning%20%7C%20Real-World%20Systems&descAlignY=62&descSize=16&descColor=ffffff" />
 
-<p align="center">
-  <img width="55%" src="./assets/lantern.svg" alt="Animated swinging lantern">
-</p>
+
 
 <div align="center">
   <i>🏮 "I'm looking for an honest dataset." 🏮</i>
